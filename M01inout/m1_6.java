@@ -1,4 +1,4 @@
-package 問01基本入出力;
+package M01inout;
 class m1_6 {
     public static void main (String[] args) {
         String capital = "東京";

@@ -1,8 +1,8 @@
-package 教科書例題練習用;
+package text;
 import java.util.Random;
 import java.util.Scanner;
 
-class Kazuate {
+public class Kazuate4_3 {
     public static void main(String[] args){
         Random rand = new Random();
         Scanner stdIn = new Scanner(System.in);

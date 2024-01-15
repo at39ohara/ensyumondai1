@@ -1,4 +1,4 @@
-package 問01基本入出力;
+package M01inout;
 import java.nio.charset.Charset;
 import java.util.Scanner;
 

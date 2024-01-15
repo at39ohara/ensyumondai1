@@ -1,4 +1,4 @@
-package 問06for文;
+package M06for;
 
 class m6_7 {
     public static void main(String[] args) {

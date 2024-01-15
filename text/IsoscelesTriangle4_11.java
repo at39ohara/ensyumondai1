@@ -1,9 +1,9 @@
 // 左下側が直角の直角二等辺三角形を表示する
 
-package 教科書例題練習用;
+package text;
 import java.util.Scanner;
 
-class IsoscelesTriangle {
+class IsoscelesTriangle4_11 {
     public static void main (String[] args) {
         Scanner stdIn = new Scanner(System.in);
 

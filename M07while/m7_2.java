@@ -1,4 +1,4 @@
-package 問07while文;
+package M07while;
 
 class m7_2 {
     public static void main (String[] args) {

@@ -1,7 +1,7 @@
-package 教科書例題練習用;
+package text;
 import java.util.Scanner;
 
-class ReverseNo {
+class ReverseNo4_8 {
     public static void main (String[] args) {
         Scanner stdIn = new Scanner(System.in); /**Scannerクラスの標準入力インスタンスを生成しているだけ */
 
