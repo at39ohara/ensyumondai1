@@ -1,0 +1,4 @@
+ア = int
+イ = boolean
+ウ = string
+エ = double
