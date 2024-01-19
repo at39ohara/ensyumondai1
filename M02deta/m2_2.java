@@ -1,6 +1,6 @@
 package M02deta;
 
-public class m2_2 {
+public class M2_2 {
     public static void main(String[] args) {
 
         // 10.0を整数型に変換する

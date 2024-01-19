@@ -1,7 +1,7 @@
 package M07while;
 import java.util.Scanner;
 
-class m7_3 {
+class M7_3 {
     public static void main (String[] args) {
         Scanner stdIn = new Scanner(System.in);
         int inputnumber;

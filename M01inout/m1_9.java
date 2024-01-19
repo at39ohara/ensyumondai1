@@ -2,7 +2,7 @@ package M01inout;
 import java.nio.charset.Charset;
 import java.util.Scanner;
 
-class m1_9 {
+class M1_9 {
     public static void main (String[] args) {
         Scanner stdIn = new Scanner(System.in,Charset.forName("shift-JIS"));
 

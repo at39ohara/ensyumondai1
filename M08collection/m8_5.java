@@ -2,7 +2,7 @@ package M08collection;
 import java.util.Arrays;
 import java.util.Random;
 
-public class m8_5 {
+public class M8_5 {
     public static void main(String[] args) {
 
         // 配列の長さを指定

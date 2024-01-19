@@ -2,7 +2,7 @@ package M09method;
 import java.nio.charset.Charset;
 import java.util.Scanner;
 
-public class m9_1 {
+public class M9_1 {
         // 学校名と名前を表示する関数
     static void SchoolAndName(String school, String name) {
         System.out.println("学校: " + school);

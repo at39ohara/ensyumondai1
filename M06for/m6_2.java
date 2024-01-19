@@ -1,6 +1,6 @@
 package M06for;
 
-class m6_2 {
+class M6_2 {
     public static void main (String[] args) {
         int x = 0;
 

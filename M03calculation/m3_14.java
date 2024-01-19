@@ -1,7 +1,7 @@
 package M03calculation;
 import java.util.Scanner;
 
-public class m3_14 {
+public class M3_14 {
     public static void main(String[] args) {
         Scanner stdIn = new Scanner(System.in);
 

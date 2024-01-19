@@ -2,7 +2,7 @@ package M05switch;
 import java.nio.charset.Charset;
 import java.util.Scanner;
 
-public class m5_1 {
+public class M5_1 {
     public static void main(String[] args) {
         Scanner stdIn = new Scanner(System.in);
 

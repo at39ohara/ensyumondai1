@@ -1,6 +1,6 @@
 package M08collection;
 
-public class m8_1 {
+public class M8_1 {
     public static void main(String[] args) {
         // 配列の宣言をする
         int [] a = new int[10];

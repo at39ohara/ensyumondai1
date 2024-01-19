@@ -1,6 +1,6 @@
 package M07while;
 
-class m7_2 {
+class M7_2 {
     public static void main (String[] args) {
         int x = 1;
         int sum = 0;

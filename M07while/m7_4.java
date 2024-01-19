@@ -1,6 +1,6 @@
 package M07while;
 
-public class m7_4 {
+public class M7_4 {
     public static void main(String[] args) {
         int total = 0;
         int count = 0;

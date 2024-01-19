@@ -1,6 +1,6 @@
 package M06for;
 
-class m6_7 {
+class M6_7 {
     public static void main(String[] args) {
 
         for (int x = 1; x <= 9; x++) {

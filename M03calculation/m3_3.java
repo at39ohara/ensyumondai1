@@ -1,6 +1,6 @@
 package M03calculation;
 
-public class m3_3 {
+public class M3_3 {
     public static void main(String[] args) {
         int x = 23;
         int y = 45;
