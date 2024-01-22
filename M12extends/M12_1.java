@@ -45,7 +45,7 @@ class M12_1 {
         double ave = a.CalcAve(x, y);
         System.out.println("Average " + x + " and " + y + " = " + (int)ave);
 
-        // 累乗を計算するクラスの院スタンを生成と結果の表示
+        // 累乗を計算するクラスのインスタンスを生成と結果の表示
         MoreCalc b = new MoreCalc();
         double pow = b.CalcPow(x, y);
         System.out.println("Power " + x + " of " + y + " = " + (int)pow);
