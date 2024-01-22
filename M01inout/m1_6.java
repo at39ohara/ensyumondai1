@@ -1,5 +1,5 @@
 package M01inout;
-class m1_6 {
+class M1_6 {
     public static void main (String[] args) {
         String capital = "東京";
         int prefectures = 47;

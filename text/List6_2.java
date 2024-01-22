@@ -1,6 +1,6 @@
 package text;
 
-public class IntArray6_2 {
+public class List6_2 {
     public static void main(String[] args) {
         int[] a = new int[5]; /**長さが5のaという配列を作成 */
 

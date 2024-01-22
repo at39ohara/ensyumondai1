@@ -1,7 +1,7 @@
 package text;
 import java.util.Scanner;
 
-class ReverseNo4_8 {
+class List4_8 {
     public static void main (String[] args) {
         Scanner stdIn = new Scanner(System.in); /**Scannerクラスの標準入力インスタンスを生成しているだけ */
 

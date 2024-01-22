@@ -11,10 +11,10 @@ public class M11_1 {
         int radius1 = stdIn.nextInt();
 
         // 円周を取得するインスタンス変数を定義
-        Circle11_1 length = new Circle11_1(radius1);
+        C11_1 length = new C11_1(radius1);
 
         // 面積を取得するインスタンス変数を定義
-        Circle11_1 area = new Circle11_1(radius1);
+        C11_1 area = new C11_1(radius1);
 
         // 円周の結果を表示
         System.out.printf("円周の長さは %.3f です。%n", length.getLength());

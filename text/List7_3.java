@@ -1,7 +1,7 @@
 package text;
 import java.util.Scanner;
 
-class Max3Method7_3 {
+class List7_3 {
     static int max(int a, int b, int c) {
         int max = a;
         if (b > max) max = b;

@@ -1,6 +1,6 @@
 package M11class;
 
-public class Sum11_2 {
+public class C11_3 {
     // main処理側からのxの値とyの値を格納するクラス変数？
     // main処理でクラスに渡すための変数と
     // クラスファイル内の引数として使う変数の名前は一致してなくてよい
@@ -8,7 +8,7 @@ public class Sum11_2 {
     private int y_class;
 
     // コンストラクタ
-    Sum11_2 (int x, int y) {
+    C11_3 (int x, int y) {
         this.x_class = x;
         this.y_class = y;
     }

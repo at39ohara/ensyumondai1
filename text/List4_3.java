@@ -2,7 +2,7 @@ package text;
 import java.util.Random;
 import java.util.Scanner;
 
-public class Kazuate4_3 {
+public class List4_3 {
     public static void main(String[] args){
         Random rand = new Random();
         Scanner stdIn = new Scanner(System.in);

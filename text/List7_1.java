@@ -1,7 +1,7 @@
 package text;
 import java.util.Scanner;
 
-class MaxHw7_1 {
+class List7_1 {
     public static void main (String[] args){
         Scanner stdIn = new Scanner(System.in);
 

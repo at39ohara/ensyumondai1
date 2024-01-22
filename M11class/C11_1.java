@@ -1,10 +1,10 @@
 package M11class;
 
-public class Circle11_1 {
+public class C11_1 {
     private int radius; /**半径を格納する引数 */
     
     // コンストラクタ
-    Circle11_1 (int radius) {
+    C11_1 (int radius) {
         this.radius = radius;
     }
 

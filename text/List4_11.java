@@ -3,7 +3,7 @@
 package text;
 import java.util.Scanner;
 
-class IsoscelesTriangle4_11 {
+class List4_11 {
     public static void main (String[] args) {
         Scanner stdIn = new Scanner(System.in);
 
