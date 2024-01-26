@@ -1,4 +1,4 @@
-package text;
+package text.List7;
 import java.util.Scanner;
 
 class List7_3 {

@@ -1,6 +1,6 @@
 // 左下側が直角の直角二等辺三角形を表示する
 
-package text;
+package text.List4;
 import java.util.Scanner;
 
 class List4_11 {

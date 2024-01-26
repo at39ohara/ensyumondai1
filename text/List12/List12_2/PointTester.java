@@ -1,4 +1,4 @@
-package text;
+package text.List12.List12_2;
 
 // スーパークラス
 class Point2D {

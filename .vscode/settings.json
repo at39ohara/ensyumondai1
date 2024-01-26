@@ -1,3 +1,4 @@
 {
-    "code-runner.runInTerminal": true
+    "code-runner.runInTerminal": true,
+    "java.debug.settings.onBuildFailureProceed": true
 }

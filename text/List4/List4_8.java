@@ -1,4 +1,4 @@
-package text;
+package text.List4;
 import java.util.Scanner;
 
 class List4_8 {

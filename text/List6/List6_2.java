@@ -1,4 +1,4 @@
-package text;
+package text.List6;
 
 public class List6_2 {
     public static void main(String[] args) {
